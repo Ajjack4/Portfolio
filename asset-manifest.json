@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.928f5dea.css",
-    "main.js": "/Portfolio/static/js/main.996ccc82.js",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.b5cf54b29d883927f418.pdf",
-    "index.html": "/Portfolio/index.html",
-    "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.928f5dea.css.map": "/Portfolio/static/css/main.928f5dea.css.map",
-    "main.996ccc82.js.map": "/Portfolio/static/js/main.996ccc82.js.map"
+    "main.css": "/Portfolio_1/static/css/main.2d4faab0.css",
+    "main.js": "/Portfolio_1/static/js/main.97c5eac9.js",
+    "static/media/Ajinkya Jadhav-logos_white.png": "/Portfolio_1/static/media/Ajinkya Jadhav-logos_white.3f907818badd4743bf74.png",
+    "static/media/Resume.pdf": "/Portfolio_1/static/media/Resume.b5cf54b29d883927f418.pdf",
+    "static/media/man-svgrepo-com.svg": "/Portfolio_1/static/media/man-svgrepo-com.b79d886f155f369fc0fb3214886a8006.svg",
+    "static/media/scroll-down.svg": "/Portfolio_1/static/media/scroll-down.f379348c6096553dbfe4d31167015caa.svg",
+    "index.html": "/Portfolio_1/index.html",
+    "static/media/blob-haikei.svg": "/Portfolio_1/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.2d4faab0.css.map": "/Portfolio_1/static/css/main.2d4faab0.css.map",
+    "main.97c5eac9.js.map": "/Portfolio_1/static/js/main.97c5eac9.js.map"
   },
   "entrypoints": [
-    "static/css/main.928f5dea.css",
-    "static/js/main.996ccc82.js"
+    "static/css/main.2d4faab0.css",
+    "static/js/main.97c5eac9.js"
   ]
 }
