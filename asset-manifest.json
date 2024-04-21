@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.928f5dea.css",
-    "main.js": "/Portfolio/static/js/main.1934bd72.js",
+    "main.css": "/Portfolio/static/css/main.8c0cfc84.css",
+    "main.js": "/Portfolio/static/js/main.52575090.js",
     "static/media/Messaging-app-sc.png": "/Portfolio/static/media/Messaging-app-sc.005a97c9dff0e5544439.png",
     "static/media/ChatBOT.jpg": "/Portfolio/static/media/ChatBOT.3a10893c3b49e76732c5.jpg",
     "static/media/Tourguide-1.jpg": "/Portfolio/static/media/Tourguide-1.11a1c3a705ef49833eea.jpg",
     "static/media/Resume_13_Ajinkya_Jadhav_FullStack.pdf": "/Portfolio/static/media/Resume_13_Ajinkya_Jadhav_FullStack.1309f7bc70b214d243a8.pdf",
     "static/media/Ajinkya Jadhav-logos_white.png": "/Portfolio/static/media/Ajinkya Jadhav-logos_white.3f907818badd4743bf74.png",
-    "static/media/man-svgrepo-com.svg": "/Portfolio/static/media/man-svgrepo-com.b79d886f155f369fc0fb3214886a8006.svg",
-    "static/media/scroll-down.svg": "/Portfolio/static/media/scroll-down.f379348c6096553dbfe4d31167015caa.svg",
+    "static/media/man-svgrepo-com.svg": "/Portfolio/static/media/man-svgrepo-com.7605cb0a919c6fc8a909502571dd1d0d.svg",
+    "static/media/scroll-down.svg": "/Portfolio/static/media/scroll-down.3cee4291b4cfe1171a2b4c493c1085c3.svg",
     "index.html": "/Portfolio/index.html",
     "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.928f5dea.css.map": "/Portfolio/static/css/main.928f5dea.css.map",
-    "main.1934bd72.js.map": "/Portfolio/static/js/main.1934bd72.js.map"
+    "main.8c0cfc84.css.map": "/Portfolio/static/css/main.8c0cfc84.css.map",
+    "main.52575090.js.map": "/Portfolio/static/js/main.52575090.js.map"
   },
   "entrypoints": [
-    "static/css/main.928f5dea.css",
-    "static/js/main.1934bd72.js"
+    "static/css/main.8c0cfc84.css",
+    "static/js/main.52575090.js"
   ]
 }
