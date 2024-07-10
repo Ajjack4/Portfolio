@@ -1,21 +1,26 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8c0cfc84.css",
-    "main.js": "/Portfolio/static/js/main.52575090.js",
+    "main.js": "/Portfolio/static/js/main.c9ac63fa.js",
     "static/media/Messaging-app-sc.png": "/Portfolio/static/media/Messaging-app-sc.005a97c9dff0e5544439.png",
     "static/media/ChatBOT.jpg": "/Portfolio/static/media/ChatBOT.3a10893c3b49e76732c5.jpg",
-    "static/media/Tourguide-1.jpg": "/Portfolio/static/media/Tourguide-1.11a1c3a705ef49833eea.jpg",
-    "static/media/Resume_13_Ajinkya_Jadhav_FullStack.pdf": "/Portfolio/static/media/Resume_13_Ajinkya_Jadhav_FullStack.1309f7bc70b214d243a8.pdf",
+    "static/media/Mapbox.png": "/Portfolio/static/media/Mapbox.6729d0eb254807bc11a8.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.052eeea9ddfff9070dad.png",
     "static/media/Ajinkya Jadhav-logos_white.png": "/Portfolio/static/media/Ajinkya Jadhav-logos_white.3f907818badd4743bf74.png",
+    "static/media/elephant.png": "/Portfolio/static/media/elephant.137221a503722cacd056.png",
+    "static/media/docker.png": "/Portfolio/static/media/docker.c1f953a3ead577c05d04.png",
     "static/media/man-svgrepo-com.svg": "/Portfolio/static/media/man-svgrepo-com.7605cb0a919c6fc8a909502571dd1d0d.svg",
+    "static/media/web.png": "/Portfolio/static/media/web.dc407c532bab5d443ddc.png",
+    "static/media/kubernetes.png": "/Portfolio/static/media/kubernetes.985735ee36ca9286e2a3.png",
     "index.html": "/Portfolio/index.html",
     "static/media/scroll-down.svg": "/Portfolio/static/media/scroll-down.3cee4291b4cfe1171a2b4c493c1085c3.svg",
+    "static/media/footer_wave.svg": "/Portfolio/static/media/footer_wave.c37fb77960aea3e94246355f1196d18e.svg",
     "static/media/blob-haikei.svg": "/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.8c0cfc84.css.map": "/Portfolio/static/css/main.8c0cfc84.css.map",
-    "main.52575090.js.map": "/Portfolio/static/js/main.52575090.js.map"
+    "main.c9ac63fa.js.map": "/Portfolio/static/js/main.c9ac63fa.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0cfc84.css",
-    "static/js/main.52575090.js"
+    "static/js/main.c9ac63fa.js"
   ]
 }
